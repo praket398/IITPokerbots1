@@ -70,4 +70,4 @@ Further documentation about the bot design and implementation can be found in th
 
 ## Author
 
-Abhinav Chhabra
+Praket Goel
